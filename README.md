@@ -1,7 +1,7 @@
 # Numerical-methods-public-
 Numerical methods algorithms in Python. Available on demand.
 
-What's inside:
+Covered topics:
 
 1. IEEE754 standard decoded: from base_10 to base_IEEE754 (sign, mantissa, exponent)
 2. LU decomposition:
