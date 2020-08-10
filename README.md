@@ -1,5 +1,5 @@
 # Numerical-methods-public-
-Numerical methods algorithms. Available on demand.
+Numerical methods algorithms in Python. Available on demand.
 
 What's inside:
 
