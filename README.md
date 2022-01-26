@@ -11,6 +11,7 @@ Covered topics:
 4. Horner's algorithm for polynomial division.
 
 
+
 Please cite if you'd like to use any of the codes:
 '''
 Gabriel Rodewald
