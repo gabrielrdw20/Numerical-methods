@@ -1,5 +1,5 @@
 # Numerical-methods-public-
-Numerical methods algorithms in Python. Available on demand.
+Numerical methods algorithms in Python.
 
 Covered topics:
 
@@ -9,3 +9,11 @@ Covered topics:
   b) Crout's method
 3. Newton's interpolation for N nodes.
 4. Horner's algorithm for polynomial division.
+
+
+Please cite if you'd like to use any of the codes:
+'''
+Gabriel Rodewald
+Github: gabrielrdw20
+2022
+'''
