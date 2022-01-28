@@ -14,7 +14,5 @@ Covered topics:
 
 Please cite if you'd like to use any of the codes:
 '''
-Gabriel Rodewald
 Github: gabrielrdw20
-2022
 '''
